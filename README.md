@@ -45,7 +45,7 @@ pytest test_integration.py   # Run integration tests
 pytest -v
 ```
 
-Testing Tools and Techniques Used
+## Testing Tools and Techniques Used
 
 - Testing Frameworks:
   - unittest for unit tests.
