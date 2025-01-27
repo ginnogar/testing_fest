@@ -31,16 +31,23 @@ para garantizar confiabilidad y corrección.
 ## Running the Tests
 
 1. **Run all tests**
+   
    Ejecute todos los archivos de prueba (pruebas unitarias y de integración):
+   
    pytest
 
-2. **Run specific test file**
+3. **Run specific test file**
+   
    Ejecute un archivo de prueba específico para centrarse en un conjunto particular de pruebas:
+   
    pytest test_server.py   # Run unit tests
+   
    pytest test_integration.py   # Run integration tests
 
-3. **Run with verbose output**
+5. **Run with verbose output**
+   
    Mostrar resultados de prueba detallados:
+   
    pytest -v
 
 Testing Tools and Techniques Used
